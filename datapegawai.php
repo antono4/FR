@@ -8,7 +8,7 @@
 <body>
 	<div class="container"><br>
 	<h1>Riwayat Absensi Pegawai</h1>
-	<p>Sistem Absensi Pegawai dengan Face Recognition Menggunakan Metode LBPH Berbasis Raspberry Pi</p>
+	<p>Sistem Absensi Pegawai dengan Face Recognition Menggunakan Metode LBPH Berbasis frrRaspberry Pi</p>
 	<hr>
 	<a class="btn btn-primary" href="index.php" role="button">Lihat Data Absensi</a>
 	<hr>
