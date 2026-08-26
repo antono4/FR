@@ -1,1 +1,30 @@
-Last updated: 2026-08-26 17:27:36 WIB
+# FR
+
+
+
+## 📋 Overview
+
+This repository contains **18 files** and is built with the following technologies:
+
+Python, PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Python, PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-26 17:30:28 WIB*
